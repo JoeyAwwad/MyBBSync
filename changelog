@@ -1,0 +1,26 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [2.3.0] - 2025-01-01
+### Changed
+- Renamed plugin to "MyBBSync" and removed all references to "Vikinger."
+- Improved synchronization flow for WordPress to MyBB logins.
+- Enhanced database security with sanitized inputs.
+
+## [2.2.6] - 2024-12-31
+### Fixed
+- Addressed issues with database settings not updating in the WordPress Admin panel.
+
+## [2.2.0] - 2024-12-30
+### Added
+- Added support for MyBB salt and hash generation without MyBB file dependency.
+- Improved error logging for debugging.
+
+## [2.1.0] - 2024-12-25
+### Added
+- Initial synchronization between WordPress and MyBB.
+
+## [1.0.0] - 2024-12-01
+### Added
+- Initial release with basic MyBB and WordPress account synchronization.
